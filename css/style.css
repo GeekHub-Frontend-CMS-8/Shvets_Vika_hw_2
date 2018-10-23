@@ -1,0 +1,26 @@
+body{
+	
+	margin-left: 10%;
+	margin-right: 10%;
+}
+figure{
+	text-align: center;
+}
+.center_align{
+	text-align: center;
+}
+#img_left{
+  float: left;
+  margin-right: 10px;
+}
+#no_float{
+	clear: left;
+
+}
+#img_animal{
+	text-align: center;
+}
+
+#p_align{
+	text-align: right;
+}
